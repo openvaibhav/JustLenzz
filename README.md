@@ -19,8 +19,6 @@ Hi, I m just a coder.<br>I don't have anything to brag about.<br>Chilling, codin
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JustLenzz&icon=0&color=11)](https://visitcount.itsvg.in)
