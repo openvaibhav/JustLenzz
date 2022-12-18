@@ -19,8 +19,8 @@ Hi, I m just a coder.<br>I don't have anything to brag about.<br>Chilling, codin
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## Contributions
+![snake gif](https://github.com/JustLenzz/JustLenzz/blob/output/github-contribution-grid-snake.gif)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JustLenzz&icon=0&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
