@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, Just a coder.<br>I don't have anything to brag about.<br>Chilling, coding, learning and procastinate is all i do.<br>Peace !<br>
+Hi, I m just a coder.<br>I don't have anything to brag about.<br>Chilling, coding, learning and procastinate is all i do.<br>Peace !<br>
 🔭 I’m currently a student<br>🤝 I’m looking for help with coding and languages<br>🌱 I’m currently learning to develop skills<br>💬 Ask me about anything
 
 
