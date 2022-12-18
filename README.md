@@ -16,10 +16,10 @@ Hi, I m just a coder.<br>I don't have anything to brag about.<br>Chilling, codin
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JustLenzz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Random Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
